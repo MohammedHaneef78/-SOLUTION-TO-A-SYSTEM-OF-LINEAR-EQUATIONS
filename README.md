@@ -15,8 +15,11 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 #Program to find the solution for the given linear equations.
+
 #Developed by: MOHAMMED HANEEF M
+
 #RegisterNumber:212225040249
+
 import numpy as np
 
 A = np.array([
